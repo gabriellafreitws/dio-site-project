@@ -1,2 +1,2 @@
-# dio-site-project
-Projeto eletivo dio.
+# dio-turism-site-project
+Projeto eletivo dio, versão para pc.
